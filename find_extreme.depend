@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1641350577 source:d:\iuh\nmlt\in class\find_extreme\main.cpp
+	<stdlib.h>
+	<stdio.h>
+
+1640503934 source:d:\iuh\nmlt\in class\find_extreme\untitled1.cpp
+	<conio.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+
+1641350578 source:d:\iuh\nmlt\in class\find_extreme\slove.cpp
+	<math.h>
+	<stdio.h>
+
+1641345852 source:d:\iuh\nmlt\in class\find_extreme\2.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1641347971 source:d:\iuh\nmlt\in class\find_extreme\delete_line.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1641348542 source:d:\iuh\nmlt\in class\find_extreme\convert_input_to_c_language.cpp
+
+1640534765 source:d:\iuh\nmlt\in class\find_extreme\example.cpp
+	<conio.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<fstream>
+	<iomanip>
+	<limits>
+
+1641345852 source:d:\iuh\nmlt\in class\find_extreme\insert_line.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1640503934 source:d:\iuh\nmlt\in class\find_extreme\ql_students.cpp
+	<conio.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+
+1641349389 source:d:\iuh\nmlt\in class\find_extreme\replace_line.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1642552846 source:d:\iuh\hk1\nmlt\in class\find_extreme\main.cpp
+	<stdlib.h>
+	<stdio.h>
+
+1641350964 source:d:\iuh\hk1\nmlt\in class\find_extreme\slove.cpp
+	<math.h>
+	<stdio.h>
+
+1640534765 source:d:\iuh\hk1\nmlt\in class\find_extreme\example.cpp
+	<conio.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<fstream>
+	<iomanip>
+	<limits>
+
+1641345852 source:d:\iuh\hk1\nmlt\in class\find_extreme\insert_line.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1641349389 source:d:\iuh\hk1\nmlt\in class\find_extreme\replace_line.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1642553005 source:d:\iuh\hk1\nmlt\in class\find_extreme\convert_input_to_c_language.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+
